@@ -1,6 +1,6 @@
 ﻿=== Google Font Manager ===
 
-Contributors: opportunex, (Thomas S. Butler)
+Contributors: opportunex
 Donate Link: http://butlerconsulting.com/work/plugins/google-font-manager/
 Tags: fonts, google, google fonts, manage fonts, add fonts, styles, site style, css, stylesheet
 Requires at least: 3.1
@@ -13,7 +13,9 @@ Easily add Google fonts to your WordPress website. With multiple use options, it
 
 == Description ==
 
-This plugin was written to help you quickly and easily add Google fonts to your WordPress website. Designed for regular and advanced WordPress users in mind. With minimal overhead, it will not add any unnecessary "bloat" to your site, adding only what you need according to your settings. You can use this plugin to simply add Google fonts to your site and reference them in your own custom style sheets (if you are using a child theme). Or, if you are not coding your own theme, there are a variety of ways you can use the built-in functions of WordPress to make use of the fonts you add. Either way, it provides the perfect solution for adding Google fonts to your website.
+=This plugin was written to help you quickly and easily add Google fonts to your WordPress website.= 
+
+Designed for regular and advanced WordPress users in mind. With minimal overhead, it will not add any unnecessary "bloat" to your site, adding only what you need according to your settings. You can use this plugin to simply add Google fonts to your site and reference them in your own custom style sheets (if you are using a child theme). Or, if you are not coding your own theme, there are a variety of ways you can use the built-in functions of WordPress to make use of the fonts you add. Either way, it provides the perfect solution for adding Google fonts to your website.
 
 Some of the features:
 
@@ -58,7 +60,11 @@ Since this is the first release version, there are no upgrade notices.
 
 == Notes & Known Issues ==
 
-This plugin has been developed for modern browsers and makes liberal use of HTML5 data attributes and may not function as intended in older web browsers... YOU HAVE BEEN WARNED! As this plugin was developed for internal training purposes to teach new programmers how to write plugins "our way", we have full documentation available.  Although a languages folder exists in the plugin (google-font-manager/lang) no translations have been added to this version.  As this plugin is used as a training tool, we are also utilizing it for producing an instructional video on how to add translations to your WordPress plugins.  Once that tutorial is complete, we will update this plugin with some added translations.  Finally, and along the same lines, some of the "responsivness" in the UI may seem lacking in this initial version.  This is for the same reason.  We will be adding a tutorial on how to add responsive conditionals and will update the plugin when that is complete.  In the meantime, have fun with the plugin and let us know what you think!
+This plugin has been developed for modern browsers and makes liberal use of HTML5 data attributes and may not function as intended in older web browsers... **YOU HAVE BEEN WARNED!** 
+
+As this plugin was developed for internal training purposes to teach new programmers how to write plugins "our way", we have full documentation available.  Although a languages folder exists in the plugin (google-font-manager/lang) no translations have been added to this version. As this plugin is used as a training tool, we are also utilizing it for producing an instructional video on how to add translations to your WordPress plugins.  Once that tutorial is complete, we will update this plugin with some added translations.  
+
+Finally, and along the same lines, some of the "responsivness" in the UI may seem lacking in this initial version.  This is for the same reason.  We will be adding a tutorial on how to add responsive conditionals and will update the plugin when that is complete.  In the meantime, have fun with the plugin and let us know what you think!
 
 
 == Screenshots ==
