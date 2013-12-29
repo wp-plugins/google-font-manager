@@ -1,6 +1,6 @@
 ﻿=== Google Font Manager ===
 
-Contributors: Thomas S. Butler - http://butlerconsulting.com/
+Contributors: opportunex, (Thomas S. Butler)
 Donate Link: http://butlerconsulting.com/work/plugins/google-font-manager/
 Tags: fonts, google, google fonts, manage fonts, add fonts, styles, site style, css, stylesheet
 Requires at least: 3.1
