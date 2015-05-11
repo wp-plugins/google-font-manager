@@ -4,7 +4,7 @@ Contributors: opportunex, PremiumWebServices
 Donate Link: http://butlerconsulting.com/work/plugins/google-font-manager/
 Tags: font, fonts, google, google fonts, manage fonts, add fonts, styles, site style, css, stylesheet, style sheet, typography
 Requires at least: 3.1
-Tested up to: 4.2
+Tested up to: 4.2.2
 Stable tag: 1.1.4
 License: GPLv3 (or higher)
 
